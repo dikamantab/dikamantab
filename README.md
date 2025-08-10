@@ -41,7 +41,6 @@
 | [Coretaxify Dashboard](https://github.com/SamuderaDev/Coretaxify_Dashboard) | Tax simulation platform for students (UI) | React.js |
 | [Coretaxify Backend](https://github.com/SamuderaDev/Backend_Coretaxify) | API & business logic for Coretaxify | Laravel |
 | [Go Vacation](https://github.com/dikamantab/go-vacation) | Travel booking web app (thesis) | React.js, Laravel |
-| [Authen Audit](https://github.com/dikamantab/authen-audit) | Online audit learning system | React.js, Laravel |
 
 > Tambahkan **GIF/Screenshot** di tiap repo biar makin menarik (pakai `social preview` di repo settings).
 
