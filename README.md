@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 - 💼 Frontend Developer @ **PT Samudra Edukasi Teknologi**
-- 🎓 BIS, **Politeknik Negeri Malang**
+- 🎓 SIB, **Politeknik Negeri Malang**
 - 🧩 Exploring **IoT & automation** for a vending machine system
 - 🧠 Focus: **React.js**, **Laravel**, **UI/UX**
 - ✉️ Reach me: **dikasyifa97@gmail.com**
