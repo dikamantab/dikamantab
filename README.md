@@ -42,7 +42,7 @@
 | [Coretaxify Backend](https://github.com/SamuderaDev/Backend_Coretaxify) | API & business logic for Coretaxify | Laravel |
 | [Go Vacation](https://github.com/dikamantab/go-vacation) | Travel booking web app (thesis) | React.js, Laravel |
 
-> Tambahkan **GIF/Screenshot** di tiap repo biar makin menarik (pakai `social preview` di repo settings).
+> 
 
 ---
 
