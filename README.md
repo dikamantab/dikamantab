@@ -60,7 +60,7 @@
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/dikamantab" target="_blank">
+  <a href="https://linkedin.com/in/riandikaramadhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dikasyifa97@gmail.com">
