@@ -21,6 +21,7 @@
 - 🧩 Exploring **IoT & automation** for a vending machine system
 - 🧠 Focus: **React.js**, **Laravel**, **UI/UX**
 - ✉️ Reach me: **dikasyifa97@gmail.com**
+- 🚀 Portfolio: **https://portfolio-dika.vercel.app/**
 
 ---
 
